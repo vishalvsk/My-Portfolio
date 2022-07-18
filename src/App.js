@@ -86,6 +86,31 @@ function App() {
           />
         </div>
 
+        <div className="top_right mt" data-aos={"zoom-in-down"}>
+          <Toproject
+            projectdata={"Uborics.in - Clone"}
+            description={
+              "Built the clone of Uborics.in-an online e-commerce product site. We Used HTML, CSS, JavaScript, React.js, Materail.Ui. Major pages include Login , sign-up ,Home page , Product page , Cart page, Account page ,Deal page , Checkout page , Payment Page . full functional from Login to payment page."
+            }
+            techStack={[
+              // "tech/html5.svg", "tech/css3.svg", "tech/js.svg"
+              "tech/html_img.png",
+              "tech/css.png",
+              "tech/js.jpg",
+              "tech/express.png",
+              "tech/node.webp",
+              "tech/mongo.png",
+              "tech/postman.png",
+            ]}
+            imges={["home.png", "category.png", "chappal.png","single.png"]}
+            links={[
+              "https://uboric-clone1-hazel.vercel.app/",
+              "https://github.com/rahulbaghel6211/uboric-clone",
+              "https://drive.google.com/file/d/1kv49OOsf5xMyKa1MuZU3WRk_n6rbuv58/view",
+            ]}
+          />
+        </div>
+
              {/* //Section for mini-projects or assignments like youtube, food app, etc*/}
 
 
