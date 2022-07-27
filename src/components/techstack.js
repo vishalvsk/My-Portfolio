@@ -4,8 +4,8 @@ function TechStack() {
   return (
     <div className="techstack">
       <div className="stack-header">
-        <p className="highlight">Tech stack I know</p>
-        <h2 className="head">Teach Stack</h2>
+        <p className="highlight"></p>
+        <h2 className="head">Tech stack I know</h2>
       </div>
       <div className="stack">
         <div className="front-back" data-aos={"fade-right"}>

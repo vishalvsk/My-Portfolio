@@ -40,7 +40,7 @@ function App() {
       <div>
         <div className="stack-header" data-aos={"zoom-in"}>
           <p className="highlight">My projects</p>
-          <h2 className="head">Top Project</h2>
+          <h2 className="head">Top Projects</h2>
         </div>
         <div className="top_right mt" data-aos={"zoom-in-down"}>
           <Toproject
