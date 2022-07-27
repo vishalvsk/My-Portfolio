@@ -231,3 +231,12 @@ iframe {
   border-radius:20%;
   margin:10px 0px 0px 50px;
 }
+
+.btn_contact{
+      display:flex;
+      justify-content:space-around;
+}
+.btn_github{
+  display:flex;
+  justify-content:space-around;
+}

@@ -46,7 +46,7 @@ function Navbar() {
             settoggle(!toggle);
           }}
         >
-          <a href="#about">About</a>
+          <a href="#about">About me</a>
         </div>
         <div
           onClick={() => {
