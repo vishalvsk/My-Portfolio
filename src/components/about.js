@@ -24,7 +24,8 @@ function About() {
               <h4> ~ Full Stack Web Development --> Oct,2021-Present</h4>
               <p>Masai School, Bengaluru, Karnataka</p>
 
-            </div>
+            </div>   
+            
             <hr/>
             <div>
               <h4> ~ Master of Arts --> 2019-2021 </h4>
